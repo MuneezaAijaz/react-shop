@@ -1,0 +1,6 @@
+{
+  "name": "Ciel & Clay — Artisanal Home Boutique",
+  "description": "A serene, handcrafted e-commerce boutique offering small-batch pastel ceramics, washed French flax textiles, and botanical home objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
